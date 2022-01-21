@@ -23,11 +23,12 @@ Location: Dashboard / My Profile / Ext. Profile / Accepted Insurances
 
 Location: My Profile / Settings / Additional Settings
 
-
-
-
 > Default claim settings located in the claims module are global.
+> Can be overwritten on client authorization.
+
 1. Billing (normally used)
 2. Referring
 3. Provider/Supplier
 4. Facility (normally used)
+
+> Only the admin account can setup accepted insurance
