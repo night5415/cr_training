@@ -1,3 +1,5 @@
+<img src="images\claims.png" width="75" height="50" />
+
 # Claims
 
 ## Claim settings
